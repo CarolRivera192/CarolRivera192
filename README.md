@@ -1,4 +1,16 @@
-# Oiii! Eu sou a Carolina Rivera, Programadora Fullstack  👩🏻‍💻
+# Oiii! Eu sou a Carolina Rivera 👩‍💻
+
+🖥️💻<b>Desenvolvedora Full Stack Jr.</b>
+
+🖥️✔️ <b>Estagiária de Informações Gerenciais na Porto Seguro</b>;
+
+🎓📚 <b>Estudando</b>: Ciência da Computação, Data Science;
+
+🌱 <b>Em constante aprendizado</b>: Python, Java, C, Sql, HTML, CSS, Javascript;
+
+🎸🎵👩‍💻💻<b>Paixões</b>: tecnologia e música;
+
+##
 
 <div align="center">
   <a href="https://github.com/CarolRivera192">
